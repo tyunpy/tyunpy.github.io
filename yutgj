@@ -1,1 +1,7 @@
-
+git clone --bare https://github.com/produce48/produce48.github.io
+cd mrap.git
+git push --mirror git@github.com:tyunpy/s999.git
+cd ..
+rm -rf mrap.git
+cd /s999.git
+git clone git@github.com:tyunpy/mrap.git
