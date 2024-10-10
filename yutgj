@@ -1,5 +1,1 @@
-git clone --bare https://github.com/produce48/produce48.github.io
-cd s999.git
-git push --mirror git@github.com:tyunpy/s999.git
-cd ..
-rm -rf s999.git
+
